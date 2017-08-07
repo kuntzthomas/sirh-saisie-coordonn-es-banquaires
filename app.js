@@ -35,7 +35,6 @@ function save() {
           $("#matricule").val() +
           "] a été mis à jour"
       );
-      init();
     }
   });
 }
